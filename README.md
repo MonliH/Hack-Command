@@ -1,5 +1,5 @@
 # Hack-Command
-**Warning this command was designed so that it can't be keyboard interupted when run in a terminal**
+## **Warning this command was designed so that it can't be keyboard interupted when run in a terminal**
 
 Just run `src.exe` or `src.py`
 
